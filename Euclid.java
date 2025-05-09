@@ -10,3 +10,5 @@ class Euclid {
         System.out.println(m);
     }
 }
+
+asaksjdniksn
